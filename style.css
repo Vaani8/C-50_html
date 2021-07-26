@@ -1,0 +1,23 @@
+h1{
+    color:darkorange;
+    border : solid;
+}
+.header{
+    background-color: gold;
+    display:flex;
+    justify-content:space-between
+}
+.menu{
+    background-color: lawngreen;
+    display:flex;
+    justify-content: space-between;
+}
+.center{
+    background-color:rgb(244, 165, 96);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+p,h2{
+    text-align:center;
+}
